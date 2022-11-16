@@ -15,13 +15,13 @@ body{
   justify-content: center;
   align-items: center;
   position : fixed;
-  background : #393E46;
+  background : #967E76;
   color : #EEEEEE;
   font-size : 80px;
   text-align: center;
 }
 .rightSection{
-  background : #222831;
+  background : #EEE3CB;
   display : flex;
   flex-direction: column;
   align-items: center;
