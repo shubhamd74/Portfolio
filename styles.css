@@ -1,7 +1,7 @@
 body {
   font-family: "Rubik", sans-serif;
-  background-color: #222831;
-  color: #EEEEEE;
+  background-color: #ebdfdf;
+  color: #000000;
 }
 
 body > section {
@@ -29,7 +29,7 @@ body > section > p {
 .resume-btn-cont > a > button {
   width: 120px;
   border: none;
-  background-color: #EEEEEE;
+  background-color: #5c8370;
   border-radius: 20px;
   padding: 10px;
   font-size: 15px;
@@ -95,7 +95,7 @@ body > section > p {
   margin: 20px;
   width: 300px;
   border-radius: 20px;
-  box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.1);
-  background-color: rgb(94, 159, 163);
+  box-shadow: 0 3px 20px 0 rgb(255, 255, 255);
+  background-color: rgb(221, 192, 154);
 
 }
